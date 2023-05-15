@@ -1,3 +1,13 @@
+img.resize{
+max-width: 30%;
+max-height: 30%;
+} 
+
+#descargar{
+  margin: 0px 0px -50px 0px ;
+  padding-left: 5%;
+}
+
  .u-section-1 {
   background-image: none;
 }
